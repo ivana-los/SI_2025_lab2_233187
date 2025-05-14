@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.SILab2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-11T20:57:15" hostname="DESKTOP-UUVDJI8" time="0.015">
-  <properties/>
-  <testcase name="testMultipleCondition()" classname="org.example.SILab2Test" time="0.015"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
