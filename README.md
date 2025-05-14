@@ -8,7 +8,8 @@ Control Flow Graph
 Минимално треба да имаме 5 тест случаи. 
 ![image](https://github.com/user-attachments/assets/86f11f31-ba4a-4d3e-a5c2-87fe28010484)
 Тест случаи според критериумот Every path
-![image](https://github.com/user-attachments/assets/761a3a8e-f5e6-4d50-ab1e-f0fbc44a5a68)
+![image](https://github.com/user-attachments/assets/2f990f6c-597b-4f05-bdff-dea92580b12d)
+
 
 
 
