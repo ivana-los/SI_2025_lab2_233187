@@ -1,7 +1,8 @@
 # SI_2025_lab2_233187
 Ivana Nedevska 233187
 Control Flow Graph
-![image](https://github.com/user-attachments/assets/6a751ddf-a43c-4ef0-91e8-6a6f94f9f588)
+![image](https://github.com/user-attachments/assets/0d9dd107-b16d-471d-8cd5-88a3d5523b36)
+
 
 Цикломатска комплексност
 Цикломатската комплексност на овој код е 9 истата ја добив со формулата P+1 каде што P е бројот на предикатни јазли. Бројот на предикатни јазли изнесува 8, 8+1=9.
